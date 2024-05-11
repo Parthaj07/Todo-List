@@ -25,13 +25,14 @@ Simple todo list in React.js, where the user can add, delete, and mark complete 
 ## Installation
 
 1. Clone the repository: https://github.com/Parthaj07/Todo-List.git
+   Project file is inside the master branch.
 
-2.  Navigate to the project directory: cd todo-list 
+3.  Navigate to the project directory: cd todo-list 
     ```bash
     cd todo-list
     ```
 
-3. Install dependencies
+4. Install dependencies
  
 
 
